@@ -1,6 +1,8 @@
 #Multi Cloud Continuous Configutation
+
 	- Forked Github Repo from provided link
 	- Enabled testing worflows
+
 	- Microsoft Azure
 		- Cloned Repo
 		- Set up Python viurtual environment
